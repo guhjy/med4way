@@ -22,7 +22,7 @@ Note: the 4-way decomposition holds without any assumptions about confounding. H
 
 If you use `med4way`, please cite the following paper:
 
-Discacciati, A., Bellavia, A., Lee, J.J., Mazumdar, M., Valeri, L., 2018. Med4way: a Stata command to investigate mediating and interactive mechanisms using the four-way effect decomposition. International Journal of Epidemiology.[http://www.citeulike.org/user/guhjy/article/14657415] [https://doi.org/10.1093/ije/dyy236](https://doi.org/10.1093/ije/dyy236)
+Discacciati, A., Bellavia, A., Lee, J.J., Mazumdar, M., Valeri, L., 2018. Med4way: a Stata command to investigate mediating and interactive mechanisms using the four-way effect decomposition. International Journal of Epidemiology. [CiteUlike](http://www.citeulike.org/user/guhjy/article/14657415) [https://doi.org/10.1093/ije/dyy236](https://doi.org/10.1093/ije/dyy236)
 
 ### Installation
 
